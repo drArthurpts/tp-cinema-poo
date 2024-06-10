@@ -1,0 +1,275 @@
+tp.poo.cinema.ExtratoVenda@2ac1fdc4
+tp.poo.cinema.ExtratoVenda@2ac1fdc4
+tp.poo.cinema.ExtratoVenda@2ac1fdc4
+tp.poo.cinema.ExtratoVenda@2ac1fdc4
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T09:47:57.966143500
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T09:49:38.134989900
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 2 x 15.0 = R$ 30.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 40.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T09:54:38.166860300
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T09:58:38.665879100
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T10:00:34.188259
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T10:44:47.676988200
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T10:45:55.392353700
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T10:47:16.357467300
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T10:50:26.736921900
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T10:51:38.509101
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T10:52:15.250407600
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T10:55:12.464810
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T10:57:15.612585200
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T11:05:28.503763900
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T11:07:17.030673800
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T11:11:26.760621300
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T11:13:10.039146600
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 2 x 15.0 = R$ 30.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 40.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T14:07:11.794375300
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Data/Hora: 2024-06-07T14:13:03.842209700
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 1 x 15.0 = R$ 15.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 25.0
+============================
+
+===== Extrato de Venda =====
+Cliente: Arthur
+CPF: 1380574575
+Itens Vendidos:
+- Pipoca: 2 x 15.0 = R$ 30.0
+- A Freira: 1 x 10.0 = R$ 10.0
+Valor Total: R$ 40.0
+============================
+
